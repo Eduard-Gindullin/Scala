@@ -1,2 +1,2 @@
 # Scala
-scala and idea pro
+scala and idea projects
